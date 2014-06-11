@@ -1,0 +1,5 @@
+﻿{
+  "ignore": [
+    "\\scripts\\kinetic-v5.1.0.js"
+  ]
+}

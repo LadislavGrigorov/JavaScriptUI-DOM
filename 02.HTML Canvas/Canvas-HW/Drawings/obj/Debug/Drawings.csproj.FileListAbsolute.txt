@@ -1,0 +1,6 @@
+D:\Telerik\08.JavaScript UI & DOM\02.HTML Canvas\Canvas-HW\Drawings\bin\Drawings.dll.config
+D:\Telerik\08.JavaScript UI & DOM\02.HTML Canvas\Canvas-HW\Drawings\bin\Drawings.dll
+D:\Telerik\08.JavaScript UI & DOM\02.HTML Canvas\Canvas-HW\Drawings\bin\Drawings.pdb
+D:\Telerik\08.JavaScript UI & DOM\02.HTML Canvas\Canvas-HW\Drawings\obj\Debug\Drawings.csprojResolveAssemblyReference.cache
+D:\Telerik\08.JavaScript UI & DOM\02.HTML Canvas\Canvas-HW\Drawings\obj\Debug\Drawings.dll
+D:\Telerik\08.JavaScript UI & DOM\02.HTML Canvas\Canvas-HW\Drawings\obj\Debug\Drawings.pdb
